@@ -14,3 +14,5 @@ cd spring-boot-gradle-boilerplate/
 
 ---
 Use http://127.0.0.1:8080/swagger-ui/ for swagger UI
+
+Can use remote debug in IDE on port 5005
